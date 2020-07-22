@@ -17,8 +17,8 @@ const BottomRow = () => {
         <div className="ballOn__value">21</div>
       </div>
       <div className="quarter">
-        <h3 className="quarter__title">Quarter</h3>
-        <div className="quarter__value">4</div>
+        <h3 className="quarter__title">Half</h3>
+        <div className="quarter__value">2</div>
       </div>
     </div>
   );
